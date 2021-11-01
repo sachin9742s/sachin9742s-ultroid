@@ -13,32 +13,32 @@ STRINGS = {
     1: """🎇 **Thanks for Deploying Ultroid Userbot!**
 
 • Here, are the Some Basic stuff from, where you can Know, about its Usage.""",
-    2: """🎉** About Ultroid**
+    2: """🎉** About sachin9742s-Ultroid**
 
 🧿 Ultroid is Pluggable and powerful Telethon Userbot, made in Python from Scratch. It is Aimed to Increase Security along with Addition of Other Useful Features.
 
-❣ Made by **@TeamUltroid**""",
+❣ Made by **@sachin_official_admin**""",
     3: """**💡• FAQs •**
 
--> [Username Tracker](https://t.me/UltroidUpdates/24)
--> [Keeping Custom Addons Repo](https://t.me/UltroidUpdates/28)
--> [Disabling Deploy message](https://t.me/UltroidUpdates/27)
--> [Setting up TimeZone](https://t.me/UltroidUpdates/22)
--> [About Inline PmPermit](https://t.me/UltroidUpdates/21)
--> [About Dual Mode](https://t.me/UltroidUpdates/18)
--> [Custom Thumbnail](https://t.me/UltroidUpdates/13)
--> [About FullSudo](https://t.me/UltroidUpdates/11)
--> [Setting Up PmBot](https://t.me/UltroidUpdates/2)
--> [Also Check](https://t.me/UltroidUpdates/14)
+-> [Username Tracker](https://t.me/sachin_official_admin)
+-> [Request Group](https://t.me/KicchaRequest)
+-> [Movie update Channel](https://t.me/gd_film)
+-> [Cme Movie Collection Channel](https://t.me/CME_Movie)
+-> [New Movie Update Channel](https://t.me/ROCKHDMOVIES2021)
+-> [𝐃𝐕𝐃/𝐖𝐄𝐁/𝐎𝐓𝐓 𝐌𝐎𝐕𝐈𝐄](https://t.me/KR_ROCKERS_DVD_WEB_OTT_MOVIES)
+-> [Tv Series Channel](https://t.me/TV_VIRISION)
+-> [Sachin Studio17](https://t.me/Sachin_studio17)
+-> [Anikha Music Channel](https://t.me/AnikhaX_Music2)
+-> [YouTube video Song Channel](https://t.me/youtube_videosong_Downloader)
 
 **• To Know About Updates**
-  - Join @TheUltroid.""",
+  - Join My Boss Movie Request Group @KicchaRequest.""",
     4: f"""• `To Know All Available Commands`
 
   - `{HNDLR}help`
   - `{HNDLR}cmds`""",
     5: """• **For Any Other Query or Suggestion**
-  - Move to **@UltroidSupport**.
+  - Move to **@KicchaRequest**.
 
 • Thanks for Reaching till END.""",
 }
