@@ -26,7 +26,7 @@ from ._help import _main_help_menu
 # ================================================#
 notmine = f"This bot is for {OWNER_NAME}"
 
-TLINK = INLINE_PIC or "https://telegra.ph/file/d9c9bc13647fa1d96e764.jpg"
+TLINK = INLINE_PIC or "https://telegra.ph/file/91c0e34c4d8ce31c17825.jpg"
 helps = get_string("inline_1")
 
 add_ons = udB.get("ADDONS")
@@ -43,8 +43,8 @@ upage = 0
 
 SUP_BUTTONS = [
     [
-        Button.url("• Repo •", url="https://github.com/TeamUltroid/Ultroid"),
-        Button.url("• Support •", url="t.me/UltroidSupport"),
+        Button.url("• Channel •", url="https://t.me/gd_film"),
+        Button.url("• Support •", url="t.me/KicchaRequest"),
     ],
 ]
 
@@ -137,6 +137,10 @@ async def setting(event):
         file=INLINE_PIC,
         link_preview=False,
         buttons=[
+            [
+                Button.inline("🧑‍💻 𝙼𝚢 𝙱𝚘𝚜𝚜", url="https://t.me/sachin_official_admin"),
+                Button.inline("🗣️ Support", url="https://t.me/KicchaRequest"),
+            ],
             [
                 Button.inline("•Pɪɴɢ•", data="pkng"),
                 Button.inline("•Uᴘᴛɪᴍᴇ•", data="upp"),
