@@ -27,11 +27,15 @@ Owner_info_msg = (
 
 **Message Forwards** - {udB.get("PMBOT")}
 
-**Ultroid [v{ultroid_version}](https://github.com/TeamUltroid/Ultroid), powered by @TeamUltroid**
+**Request Group [Kiccha Request](https://t.me/KicchaRequest), powered by @KicchaRequest**
 """
 )
 
 _settings = [
+    [
+        Button.inline("🧑‍💻 𝙼𝚢 𝙱𝚘𝚜𝚜", url="https://t.me/sachin_official_admin"),
+        Button.inline("🗣️ Support", url="https://t.me/KicchaRequest"),
+    ],
     [
         Button.inline("API Kᴇʏs", data="apiset"),
         Button.inline("Pᴍ Bᴏᴛ", data="chatbot"),
@@ -48,6 +52,11 @@ _settings = [
 ]
 
 _start = [
+    [
+        Button.inline("🧑‍💻 𝙼𝚢 𝙱𝚘𝚜𝚜", url="https://t.me/sachin_official_admin"),
+        Button.inline("🗣️ Support", url="https://t.me/KicchaRequest"),
+    ],
+    ],
     [
         Button.inline("Lᴀɴɢᴜᴀɢᴇ 🌐", data="lang"),
         Button.inline("Sᴇᴛᴛɪɴɢs ⚙️", data="setter"),
